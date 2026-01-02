@@ -47,10 +47,9 @@ Install dependencies on Ubuntu:
 sudo apt update
 sudo apt install build-essential libncurses5-dev
 
----
 
 ## ▶️ Build & Run
 
-```bash
+
 gcc snake.c -o snake -lncurses
 ./snake
