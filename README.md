@@ -34,7 +34,7 @@ A classic **Snake game implemented in C** using the **ncurses** library, designe
 
 [![Watch the demo](https://asciinema.org/a/sXoH9XbW31WaUYCPRwyeyr6qo.svg)](https://asciinema.org/a/sXoH9XbW31WaUYCPRwyeyr6qo)
 
-
+---
 
 ## 🧱 Requirements
 
@@ -47,3 +47,10 @@ Install dependencies on Ubuntu:
 sudo apt update
 sudo apt install build-essential libncurses5-dev
 
+---
+
+## ▶️ Build & Run
+
+```bash
+gcc snake.c -o snake -lncurses
+./snake
