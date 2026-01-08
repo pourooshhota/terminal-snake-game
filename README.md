@@ -9,13 +9,13 @@ A classic **Snake game implemented in C** using the **ncurses** library, designe
 
 ##  Features
 
-- ⌨️ Smooth keyboard controls (arrow keys)
-- 🎨 Colored terminal UI (snake, food, border)
-- ⏸️ Pause & resume gameplay
-- 🔄 Restart game without exiting
-- 🌍 Wall wrap mode (snake passes through edges)
-- 📈 Progressive speed increase
-- 💾 Persistent high score storage
+-  Smooth keyboard controls (arrow keys)
+-  Colored terminal UI (snake, food, border)
+-  Pause & resume gameplay
+-  Restart game without exiting
+-  Wall wrap mode (snake passes through edges)
+-  Progressive speed increase
+-  Persistent high score storage
 
 ---
 
