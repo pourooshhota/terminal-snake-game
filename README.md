@@ -1,4 +1,4 @@
-# 🐍 Terminal Snake Game in C (ncurses)
+#  Terminal Snake Game in C (ncurses)
 
 A classic **Snake game implemented in C** using the **ncurses** library, designed to run entirely in the terminal.
 
@@ -7,7 +7,7 @@ A classic **Snake game implemented in C** using the **ncurses** library, designe
 
 ---
 
-## 🎮 Features
+##  Features
 
 - ⌨️ Smooth keyboard controls (arrow keys)
 - 🎨 Colored terminal UI (snake, food, border)
@@ -19,7 +19,7 @@ A classic **Snake game implemented in C** using the **ncurses** library, designe
 
 ---
 
-## 🕹️ Controls
+##  Controls
 
 | Key | Action |
 |---|---|
@@ -30,13 +30,13 @@ A classic **Snake game implemented in C** using the **ncurses** library, designe
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 [![Watch the demo](https://asciinema.org/a/sXoH9XbW31WaUYCPRwyeyr6qo.svg)](https://asciinema.org/a/sXoH9XbW31WaUYCPRwyeyr6qo)
 
 ---
 
-## 🧱 Requirements
+##  Requirements
 
 ### Linux / WSL
 - GCC compiler
@@ -48,7 +48,7 @@ sudo apt update
 sudo apt install build-essential libncurses5-dev
 
 
-## ▶️ Build & Run
+##  Build & Run
 
 
 gcc snake.c -o snake -lncurses
